@@ -31,6 +31,8 @@ p {
   text-decoration-style: solid;
 }
 
-.pictures {
-
+.footer {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
 }
